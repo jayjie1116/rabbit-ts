@@ -17,7 +17,7 @@ npm install
 npm run dev
 ```
 
-### 为生产进行类型检查、编译和最小化
+### 编译打包
 
 ```sh
 npm run build
